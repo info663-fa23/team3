@@ -1,30 +1,31 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,Object Identifier,,,,identifier
 object_location,Permalink,,true,,embedUrl
 title,Interview Title,,,,name
+description,Description,,,,abstract
 narrator_name,Narrator Name,true,,,contributor
 narrator_biography,Narrator Biography,,,,description
 interviewer_name,Interviewer Name,,,,creator
 interview_number,Interview Number,,,,hasPart
 date,Date,,,,dateCreated
-description,Description,,,,abstract
-resource_type,Resource Type,,,,genre
-call_number,NYU Call Number,,,,additionalType
 interview_duration,Total Length of Interview,,,,duration
-segment_1_duration,Segment 1 Duration,,,,duration
-segment_2_duration,Segment 2 Duration,,,,duration
-segment_3_duration,Segment 3 Duration,,,,duration
-segment_4_duration,Segment 4 Duration,,,,duration
-segment_5_duration,Segment 5 Duration,,,,duration
-segment_1_transcript,Segment 1 Transcript,,true,,
-segment_2_transcript,Segment 2 Transcript,,true,,
-segment_3_transcript,Segment 3 Transcript,,true,,
-segment_4_transcript,Segment 4 Transcript,,true,,
-segment_5_transcript,Segment 5 Transcript,,true,,
 topics,Topics,true,,,keywords
 people,People,true,,,keywords
 organizations,Organizations,true,,,keywords
 places,Places,true,,,keywords
+segment_1_duration,Segment 1 Duration,,,,duration
+segment_1_transcript,Segment 1 Transcript,,true,,
+segment_2_duration,Segment 2 Duration,,,,duration
+segment_2_transcript,Segment 2 Transcript,,true,,
+segment_3_duration,Segment 3 Duration,,,,duration
+segment_3_transcript,Segment 3 Transcript,,true,,
+segment_4_duration,Segment 4 Duration,,,,duration
+segment_4_transcript,Segment 4 Transcript,,true,,
+segment_5_duration,Segment 5 Duration,,,,duration
+segment_5_transcript,Segment 5 Transcript,,true,,
 previous_interview,Previous Interview,,true,,
 next_interview,Next Interview,,true,,
 file_type,File Type,,,DC.Format,encodingFormat
+resource_type,Resource Type,,,,genre
+call_number,NYU Call Number,,,,additionalType
+objectid,Object Identifier,,,,identifier
+
