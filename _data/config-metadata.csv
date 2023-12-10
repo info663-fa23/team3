@@ -1,14 +1,27 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+objectid,Object Identifier,,,,identifier
+object_location,Permalink,,TRUE,,embedUrl
+title,Interview Title,,,,name
+narrator_name,Narrator Name,,,,contributor
+narrator_biography,Narrator Biography,,,,description
+interviewer_name,Interviewer Name,,,,creator
+interview_number,Interview Number,,,,hasPart
+date,Date,,,,dateCreated
+description,Description,,,,abstract
+resource_type,Resource Type,,,,genre
+call_number,NYU Call Number,,,,additionalType
+interview_duration,Duration,,,,duration
+segment_1_duration,Segment 1 Duration,,,,duration
+segment_2_duration,Segment 2 Duration,,,,duration
+segment_3_duration,Segment 3 Duration,,,,duration
+segment_4_duration,Segment 4 Duration,,,,duration
+segment_5_duration,Segment 5 Duration,,,,duration
+segment_1_transcript,Segment 1 Transcript,,TRUE,,
+segment_2_transcript,Segment 2 Transcript,,TRUE,,
+segment_3_transcript,Segment 3 Transcript,,TRUE,,
+segment_4_transcript,Segment 4 Transcript,,TRUE,,
+segment_5_transcript,Segment 5 Transcript,,TRUE,,
+topics,Topics,TRUE,,,keywords
+people,People,TRUE,,,keywords
+organizations,Organizations,TRUE,,,keywords
+places,Places,TRUE,,,keywords
