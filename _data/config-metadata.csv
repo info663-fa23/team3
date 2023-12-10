@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,Object Identifier,,,,identifier
 object_location,Permalink,,TRUE,,embedUrl
 title,Interview Title,,,,name
-narrator_name,Narrator Name,,,,contributor
+narrator_name,Narrator Name,TRUE,,,contributor
 narrator_biography,Narrator Biography,,,,description
 interviewer_name,Interviewer Name,,,,creator
 interview_number,Interview Number,,,,hasPart
