@@ -1,5 +1,27 @@
 field,display_name
-title,Title
+objectid,Object Identifier
+object_location,Permalink
+title,Interview Title
+narrator_name,Narrator Name
+narrator_biography,Narrator Biography
+interviewer_name,Interviewer Name
+interview_number,Interview Number
 date,Date
 description,Description
-subject,Subjects
+resource_type,Resource Type
+call_number,NYU Call Number
+interview_duration,Duration
+segment_1_duration,Segment 1 Duration
+segment_2_duration,Segment 2 Duration
+segment_3_duration,Segment 3 Duration
+segment_4_duration,Segment 4 Duration
+segment_5_duration,Segment 5 Duration
+segment_1_transcript,Segment 1 Transcript
+segment_2_transcript,Segment 2 Transcript
+segment_3_transcript,Segment 3 Transcript
+segment_4_transcript,Segment 4 Transcript
+segment_5_transcript,Segment 5 Transcript
+topics,Topics
+people,People
+organizations,Organizations
+places,Places
