@@ -8,10 +8,6 @@ interviewer_name,Interviewer Name,,,,creator
 interview_number,Interview Number,,,,hasPart
 date,Date,,,,dateCreated
 interview_duration,Total Length of Interview,,,,duration
-topics,Topics,true,,,keywords
-people,People,true,,,keywords
-organizations,Organizations,true,,,keywords
-places,Places,true,,,keywords
 segment_1_duration,Segment 1 Duration,,,,duration
 segment_1_transcript,Segment 1 Transcript,,true,,
 segment_2_duration,Segment 2 Duration,,,,duration
@@ -22,6 +18,10 @@ segment_4_duration,Segment 4 Duration,,,,duration
 segment_4_transcript,Segment 4 Transcript,,true,,
 segment_5_duration,Segment 5 Duration,,,,duration
 segment_5_transcript,Segment 5 Transcript,,true,,
+topics,Topics,true,,,keywords
+people,People,true,,,keywords
+organizations,Organizations,true,,,keywords
+places,Places,true,,,keywords
 previous_interview,Previous Interview,,true,,
 next_interview,Next Interview,,true,,
 file_type,File Type,,,DC.Format,encodingFormat
