@@ -25,3 +25,6 @@ topics,Topics,true,,,keywords
 people,People,true,,,keywords
 organizations,Organizations,true,,,keywords
 places,Places,true,,,keywords
+previous_interview,Previous Interview,,,,
+next_interview,Next Interview,,,,
+file_type,File Type,,,DC.Format,encodingFormat
