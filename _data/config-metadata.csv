@@ -10,7 +10,7 @@ date,Date,,,,dateCreated
 description,Description,,,,abstract
 resource_type,Resource Type,,,,genre
 call_number,NYU Call Number,,,,additionalType
-interview_duration,Duration,,,,duration
+interview_duration,Total Length of Interview,,,,duration
 segment_1_duration,Segment 1 Duration,,,,duration
 segment_2_duration,Segment 2 Duration,,,,duration
 segment_3_duration,Segment 3 Duration,,,,duration
