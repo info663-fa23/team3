@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+narrator_name,Narrator Name,true,,true
+date,Date,true,,true
+topics,Topics,true,,true
+people,People,true,,true
+organizations,Organizations,true,,true
+places,Places,true,,true
