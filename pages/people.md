@@ -1,12 +1,12 @@
 ---
-title: People
+title: Subjects
 layout: cloud
 permalink: /people.html
-cloud-fields: people
+cloud-fields: people,topics,organizations,places
 cloud-min: 
 cloud-stopwords:
 ---
 
-## Browse People
+## Browse Subjects
 
 Example custom cloud page.
