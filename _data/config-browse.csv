@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 narrator_name,Narrator Name,true,,Narrator Name
-date,Date,true,,Date
+date,Date,true,true,Date
 topics,Topics,true,true,Topics
 people,People,true,true,People
 organizations,Organizations,true,true,Organizations
