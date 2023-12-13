@@ -1,31 +1,30 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-object_location,Permalink,,true,,embedUrl
-title,Interview Title,,,,name
-description,Description,,,,abstract
-narrator_name,Narrator Name,true,,,contributor
-narrator_biography,Narrator Biography,,,,description
-interviewer_name,Interviewer Name,,,,creator
-interview_number,Interview Number,,,,hasPart
-date,Date,,,,dateCreated
-interview_duration,Total Length of Interview,,,,duration
-segment_1_duration,Segment 1 Duration,,,,duration
-segment_1_transcript,Segment 1 Transcript,,true,,
-segment_2_duration,Segment 2 Duration,,,,duration
-segment_2_transcript,Segment 2 Transcript,,true,,
-segment_3_duration,Segment 3 Duration,,,,duration
-segment_3_transcript,Segment 3 Transcript,,true,,
-segment_4_duration,Segment 4 Duration,,,,duration
-segment_4_transcript,Segment 4 Transcript,,true,,
-segment_5_duration,Segment 5 Duration,,,,duration
-segment_5_transcript,Segment 5 Transcript,,true,,
-topics,Topics,true,,,keywords
-people,People,true,,,keywords
-organizations,Organizations,true,,,keywords
-places,Places,true,,,keywords
-previous_interview,Previous Interview,,true,,
-next_interview,Next Interview,,true,,
+object_location,Permalink,,TRUE,DC.Source,embedUrl
+title,Interview Title,,,DC.Title,name
+description,Description,,,DCTERMS.Abstract,abstract
+narrator_name,Narrator Name,TRUE,,DC.Contributor,contributor
+narrator_biography,Narrator Biography,,,DC.Description,description
+interviewer_name,Interviewer Name,,,DC.Creator,creator
+interview_number,Interview Number,,,DCTERMS.hasPart,hasPart
+date,Date,,,DC.Date,dateCreated
+interview_duration,Total Length of Interview,,,DCTERMS.Extent,duration
+segment_1_duration,Segment 1 Duration,,,DCTERMS.Extent,duration
+segment_1_transcript,Segment 1 Transcript,,TRUE,DC.Source,
+segment_2_duration,Segment 2 Duration,,,DCTERMS.Extent,duration
+segment_2_transcript,Segment 2 Transcript,,TRUE,DC.Source,
+segment_3_duration,Segment 3 Duration,,,DCTERMS.Extent,duration
+segment_3_transcript,Segment 3 Transcript,,TRUE,DC.Source,
+segment_4_duration,Segment 4 Duration,,,DCTERMS.Extent,duration
+segment_4_transcript,Segment 4 Transcript,,TRUE,DC.Source,
+segment_5_duration,Segment 5 Duration,,,DCTERMS.Extent,duration
+segment_5_transcript,Segment 5 Transcript,,TRUE,DC.Source,
+topics,Topics,TRUE,,DC.Subject,keywords
+people,People,TRUE,,DC.Subject,keywords
+organizations,Organizations,TRUE,,DC.Subject,keywords
+places,Places,TRUE,,DC.Subject,keywords
+previous_interview,Previous Interview,,TRUE,,
+next_interview,Next Interview,,TRUE,,
 file_type,File Type,,,DC.Format,encodingFormat
-resource_type,Resource Type,,,,genre
-call_number,NYU Call Number,,,,additionalType
-objectid,Object Identifier,,,,identifier
-
+resource_type,Resource Type,,,DC.Type,genre
+call_number,NYU Call Number,,,DCTERMS.Identifier,additionalType
+objectid,Object Identifier,,,DC.Identifier,identifier
