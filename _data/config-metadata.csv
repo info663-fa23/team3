@@ -1,29 +1,29 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-object_location,Permalink,,True,DC.Source,embedUrl
+object_location,Permalink,,true,DC.Source,embedUrl
 title,Interview Title,,,DC.Title,name
 description,Description,,,DCTERMS.Abstract,abstract
-narrator_name,Narrator Name,True,,DC.Contributor,contributor
+narrator_name,Narrator Name,true,,DC.Contributor,contributor
 narrator_biography,Narrator Biography,,,DC.Description,description
 interviewer_name,Interviewer Name,,,DC.Creator,creator
 interview_number,Interview Number,,,DCTERMS.hasPart,hasPart
 date,Date,,,DC.Date,dateCreated
 interview_duration,Total Length of Interview,,,DCTERMS.Extent,duration
 segment_1_duration,Segment 1 Duration,,,DCTERMS.Extent,duration
-segment_1_transcript,Segment 1 Transcript,,True,DC.Source,
+segment_1_transcript,Segment 1 Transcript,,true,DC.Source,
 segment_2_duration,Segment 2 Duration,,,DCTERMS.Extent,duration
-segment_2_transcript,Segment 2 Transcript,,True,DC.Source,
+segment_2_transcript,Segment 2 Transcript,,true,DC.Source,
 segment_3_duration,Segment 3 Duration,,,DCTERMS.Extent,duration
-segment_3_transcript,Segment 3 Transcript,,True,DC.Source,
+segment_3_transcript,Segment 3 Transcript,,true,DC.Source,
 segment_4_duration,Segment 4 Duration,,,DCTERMS.Extent,duration
-segment_4_transcript,Segment 4 Transcript,,True,DC.Source,
+segment_4_transcript,Segment 4 Transcript,,true,DC.Source,
 segment_5_duration,Segment 5 Duration,,,DCTERMS.Extent,duration
-segment_5_transcript,Segment 5 Transcript,,True,DC.Source,
-topics,Topics,True,,DC.Subject,keywords
-people,People,True,,DC.Subject,keywords
-organizations,Organizations,True,,DC.Subject,keywords
-places,Places,True,,DC.Subject,keywords
-previous_interview,Previous Interview,,True,,
-next_interview,Next Interview,,True,,
+segment_5_transcript,Segment 5 Transcript,,true,DC.Source,
+topics,Topics,true,,DC.Subject,keywords
+people,People,true,,DC.Subject,keywords
+organizations,Organizations,true,,DC.Subject,keywords
+places,Places,true,,DC.Subject,keywords
+previous_interview,Previous Interview,,true,,
+next_interview,Next Interview,,true,,
 file_type,File Type,,,DC.Format,encodingFormat
 resource_type,Resource Type,,,DC.Type,genre
 call_number,NYU Call Number,,,DCTERMS.Identifier,additionalType
